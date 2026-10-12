@@ -1,0 +1,6 @@
+interface:
+  display_name: "野马mumu · 盖洛普优势解读"
+  short_description: "结合盖洛普报告与真实经历，理解才干组合和行为驱动，形成可行行动"
+  default_prompt: "请用 $gallup-strengths-coach 解读我的盖洛普报告，先按五部分给出完整解读，再结合我的真实经历深入探索。"
+policy:
+  allow_implicit_invocation: true

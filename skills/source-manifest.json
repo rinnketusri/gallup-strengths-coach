@@ -1,0 +1,65 @@
+{
+  "assembled": "2026-10-10",
+  "sources": [
+    {
+      "id": "S1",
+      "filename": "盖洛普基础理论1-四大领域、才干与优势区别.docx",
+      "bytes": 1155526,
+      "sha256": "8e413ad931a7d87397595f1e51263a2d243c5a049936a730270e25506519a49f"
+    },
+    {
+      "id": "S2",
+      "filename": "盖洛普基础理论2-34项才干解释.docx",
+      "bytes": 68459,
+      "sha256": "36a80f2c1b7881c003e38ae504d4170c17023e91fd1b593547b8cca8141a56ef"
+    },
+    {
+      "id": "S3",
+      "filename": "盖洛普基础理论3-盖洛普优势百问百答手册.pdf",
+      "bytes": 869214,
+      "sha256": "bcec53639e8c571674f95960f25a03472efa0fa88a619f758c6fee3b08de20ef"
+    },
+    {
+      "id": "S4",
+      "filename": "优势教练提问方法：教练技术.docx",
+      "bytes": 727815,
+      "sha256": "2d09bedea25a6d96fd341c89a7622049a37df7be791ac5847488ecece3d10060"
+    },
+    {
+      "id": "S5",
+      "filename": "优势教练提问方法：有力的提问.docx",
+      "bytes": 23186,
+      "sha256": "a38371fdc72d99b69ac8c84fef3114bf955c7ef9d221ba6e20ef6098729ce54f"
+    },
+    {
+      "id": "S6",
+      "filename": "优势教练提问方法：有力的倾听.docx",
+      "bytes": 17501,
+      "sha256": "2bba3f125a03f8eb54f39ac88ed6d14e558366c3f99c0af14f3c705bf9aafc05"
+    },
+    {
+      "id": "S7",
+      "filename": "场景案例与解决策略1-如何做一场完整的优势咨询.docx",
+      "bytes": 635499,
+      "sha256": "2f6115101cbdb7deef07497f9ca992096ec11509cd04bbfcbc3874b8494e76ae"
+    },
+    {
+      "id": "S8",
+      "filename": "场景案例与解决策略2-彻底理解一份优势报告.docx",
+      "bytes": 1159322,
+      "sha256": "29e6f10176dd941af1e4dd9b490b26771d66315b309e4b31212d6512d3db9253"
+    },
+    {
+      "id": "S9",
+      "filename": "过往案例沟通的专业思路.docx",
+      "bytes": 25506,
+      "sha256": "0f013d9cf22a34a13ea90fd65e20fd2bbc18ae91351fb2a7d699d7e60125467f"
+    },
+    {
+      "id": "S10",
+      "filename": "盖洛普优势解读Skill-共创需求完整版.md",
+      "bytes": 17991,
+      "sha256": "66c77394f17773b5932e07c95abd9678961d07aa4948cad5aa6d9c743c8ff931"
+    }
+  ]
+}
